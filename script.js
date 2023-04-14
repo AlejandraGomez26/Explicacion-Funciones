@@ -1,0 +1,3 @@
+function publicacion (respuesta = "no") {
+    
+}
